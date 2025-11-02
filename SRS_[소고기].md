@@ -1,4 +1,4 @@
-﻿# Software Requirements Specification (SRS)
+# Software Requirements Specification (SRS)
 
 ## 📌 Project Title
 숏폼 시청 관리 모바일 앱 개발
